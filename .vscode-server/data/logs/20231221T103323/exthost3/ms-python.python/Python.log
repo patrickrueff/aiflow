@@ -1,0 +1,16 @@
+2023-12-21 11:29:20.103 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-21 11:29:20.103 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-21 11:29:20.110 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-21 11:29:20.110 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-12-21 11:29:20.110 [info] Experiment 'pythonTestAdapter' is active
+2023-12-21 11:29:20.110 [info] Default formatter is set to null for workspace /home/ubuntu
+2023-12-21 11:29:20.111 [info] Test server listening.
+2023-12-21 11:29:20.111 [info] Python interpreter path: /bin/python3
+2023-12-21 11:29:22.687 [info] Starting Pylance language server.
+2023-12-21 11:32:47.999 [info] Send text to terminal: /bin/python3 /home/ubuntu/script_raw_file
+2023-12-21 11:32:58.905 [info] Send text to terminal: /bin/python3 /home/ubuntu/script_raw_file
+2023-12-21 11:33:11.649 [info] Send text to terminal: /bin/python3 /home/ubuntu/script_raw_file
+2023-12-21 11:33:21.131 [info] Send text to terminal: /bin/python3 /home/ubuntu/script_tranform_to_csv
+2023-12-21 11:34:50.908 [info] Send text to terminal: /bin/python3 /home/ubuntu/script_tranform_to_csv
+2023-12-21 11:35:01.530 [info] Send text to terminal: /bin/python3 /home/ubuntu/Script_model
+2023-12-21 11:36:53.309 [info] Send text to terminal: /bin/python3 /home/ubuntu/Script_model

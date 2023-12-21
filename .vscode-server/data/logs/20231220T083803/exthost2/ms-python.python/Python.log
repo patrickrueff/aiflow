@@ -1,0 +1,52 @@
+2023-12-20 08:56:32.876 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-20 08:56:32.876 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-20 08:56:32.876 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-20 08:56:32.876 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-12-20 08:56:32.876 [info] Experiment 'pythonTestAdapter' is active
+2023-12-20 08:56:32.876 [info] Default formatter is set to null for workspace /home/ubuntu/raw_files
+2023-12-20 08:56:32.878 [info] Test server listening.
+2023-12-20 08:56:32.926 [info] > python -c "import sys;print(sys.executable)"
+2023-12-20 08:56:32.935 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:525:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:302:5)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2023-12-20 08:56:33.442 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 08:56:33.442 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 08:56:33.442 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 08:56:33.442 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 08:56:33.442 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 08:56:35.707 [info] Starting Pylance language server.
+2023-12-20 08:57:19.580 [info] > conda info --json
+2023-12-20 08:57:19.617 [info] Found: /bin/python3 --> /bin/python3.8
+2023-12-20 08:57:19.618 [info] Found: /bin/python3.8 --> /bin/python3.8
+2023-12-20 08:57:19.666 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2023-12-20 08:57:19.667 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2023-12-20 08:57:19.716 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2023-12-20 08:57:19.767 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2023-12-20 08:57:21.695 [info] Discover tests for workspace name: raw_files - uri: /home/ubuntu/raw_files
+2023-12-20 08:57:21.696 [info] Python interpreter path: /bin/python3
+2023-12-20 08:57:25.685 [info] CreateEnv Trigger - Skipping for /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:57:25.878 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:58:19.840 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:58:43.652 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:58:59.714 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:10.181 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:30.456 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:33.450 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:36.400 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:38.069 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:39.714 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:42.790 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 08:59:44.690 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 09:00:16.827 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 09:05:01.695 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_raw_file
+2023-12-20 09:06:00.044 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_tranform_to_csv
+2023-12-20 09:07:57.245 [info] Send text to terminal: /bin/python3 /home/ubuntu/raw_files/script_tranform_to_csv

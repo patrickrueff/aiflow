@@ -1,0 +1,30 @@
+2023-12-21 10:36:05.952 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2023-12-21 10:36:07.019 [info] [Info  - 10:36:06 AM] (3255) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2023-12-21 10:36:07.021 [info] [Info  - 10:36:07 AM] (3255) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2023-12-21 10:36:07.021 [info] [Info  - 10:36:07 AM] (3255) Starting service instance "Airflow"
+2023-12-21 10:36:07.173 [info] [Info  - 10:36:07 AM] (3255) Setting pythonPath for service "Airflow": "/bin/python3"
+2023-12-21 10:36:07.174 [info] [Info  - 10:36:07 AM] (3255) Setting environmentName for service "Airflow": "3.8.10 (global)"
+2023-12-21 10:36:07.254 [info] [Info  - 10:36:07 AM] (3255) Assuming Python version 3.8
+2023-12-21 10:36:07.469 [info] [Info  - 10:36:07 AM] (3255) No source files found.
+2023-12-21 10:36:15.261 [info] [Info  - 10:36:15 AM] (3255) [BG(1)] Long operation: checking: /home/ubuntu/Airflow/Script_model (5182ms)
+2023-12-21 10:36:15.261 [info] [Info  - 10:36:15 AM] (3255) [BG(1)] Long operation: analyzing: /home/ubuntu/Airflow/Script_model (6425ms)
+2023-12-21 10:36:20.009 [info] [Info  - 10:36:20 AM] (3255) [IDX(2)] Long operation: index execution environment /home/ubuntu/Airflow (8321ms)
+2023-12-21 10:36:20.039 [info] [Info  - 10:36:20 AM] (3255) [IDX(2)] Long operation: index packages /home/ubuntu/Airflow (8395ms)
+2023-12-21 11:16:47.087 [info] [Info  - 11:16:47 AM] (3255) Setting pythonPath for service "Airflow": "/bin/python3"
+2023-12-21 11:16:47.088 [info] [Info  - 11:16:47 AM] (3255) Setting environmentName for service "Airflow": "3.8.10 (global)"
+2023-12-21 11:16:47.278 [info] [Info  - 11:16:47 AM] (3255) Assuming Python version 3.8
+2023-12-21 11:16:47.510 [info] [Info  - 11:16:47 AM] (3255) No source files found.
+2023-12-21 11:16:51.693 [info] [Info  - 11:16:51 AM] (3255) [BG(1)] Long operation: checking: /home/ubuntu/Airflow/Script_model (3441ms)
+2023-12-21 11:16:51.693 [info] [Info  - 11:16:51 AM] (3255) [BG(1)] Long operation: analyzing: /home/ubuntu/Airflow/Script_model (4114ms)
+2023-12-21 11:23:04.492 [info] [Error - 11:23:04 AM] Server process exited with code 0.
+2023-12-21 11:23:05.451 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2023-12-21 11:23:08.150 [info] [Info  - 11:23:08 AM] (26172) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2023-12-21 11:23:08.150 [info] [Info  - 11:23:08 AM] (26172) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2023-12-21 11:23:08.151 [info] [Info  - 11:23:08 AM] (26172) Starting service instance "Airflow"
+2023-12-21 11:23:09.270 [info] [Info  - 11:23:09 AM] (26172) Setting pythonPath for service "Airflow": "/bin/python3"
+2023-12-21 11:23:09.299 [info] [Info  - 11:23:09 AM] (26172) Setting environmentName for service "Airflow": "3.8.10 (global)"
+2023-12-21 11:23:09.375 [info] [Info  - 11:23:09 AM] (26172) Assuming Python version 3.8
+2023-12-21 11:23:09.422 [info] [Info  - 11:23:09 AM] (26172) No source files found.
+2023-12-21 11:23:19.610 [info] [Info  - 11:23:19 AM] (26172) [IDX(2)] Long operation: scan packages /home/ubuntu/Airflow (4336ms)
+2023-12-21 11:23:23.706 [info] [Info  - 11:23:23 AM] (26172) [BG(1)] Long operation: checking: /home/ubuntu/Airflow/Script_model (9556ms)
+2023-12-21 11:23:23.706 [info] [Info  - 11:23:23 AM] (26172) [BG(1)] Long operation: analyzing: /home/ubuntu/Airflow/Script_model (12079ms)

@@ -1,0 +1,26 @@
+2023-12-21 10:36:05.002 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-21 10:36:05.002 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-21 10:36:05.002 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-21 10:36:05.002 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-12-21 10:36:05.002 [info] Experiment 'pythonTestAdapter' is active
+2023-12-21 10:36:05.002 [info] Default formatter is set to null for workspace /home/ubuntu/Airflow
+2023-12-21 10:36:05.002 [info] Test server listening.
+2023-12-21 10:36:05.044 [info] Python interpreter path: /bin/python3
+2023-12-21 10:36:05.179 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-21 10:36:05.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 10:36:05.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 10:36:05.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 10:36:05.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-21 10:36:07.064 [info] Starting Pylance language server.
+2023-12-21 10:38:20.231 [info] CreateEnv Trigger - Skipping for /home/ubuntu/Airflow/Script_model
+2023-12-21 10:38:20.269 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:39:18.651 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:42:31.413 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:44:27.541 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:44:48.124 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:45:22.333 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:46:01.010 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:48:27.279 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:48:36.638 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:48:51.140 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-21 10:49:05.955 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model

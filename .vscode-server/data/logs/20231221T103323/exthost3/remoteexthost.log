@@ -1,0 +1,23 @@
+2023-12-21 11:25:40.901 [info] Extension host with pid 29935 started
+2023-12-21 11:25:40.901 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ec007df743ee205718e0cf55d6a929d7/vscode.lock'
+2023-12-21 11:25:40.922 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ec007df743ee205718e0cf55d6a929d7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-21 11:25:40.958 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ec007df743ee205718e0cf55d6a929d7/vscode.lock': The pid 40728 appears to be gone.
+2023-12-21 11:25:40.958 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ec007df743ee205718e0cf55d6a929d7/vscode.lock': Deleting a stale lock.
+2023-12-21 11:25:40.964 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/ec007df743ee205718e0cf55d6a929d7/vscode.lock': Lock acquired.
+2023-12-21 11:25:41.211 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-21 11:25:41.222 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-12-21 11:25:42.225 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-21 11:25:42.536 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-21 11:25:42.537 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-21 11:25:43.847 [info] Eager extensions activated
+2023-12-21 11:25:43.848 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-21 11:25:43.848 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-21 11:27:47.550 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-12-21 11:27:47.551 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-12-21 11:27:47.551 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-12-21 11:29:06.767 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+2023-12-21 11:29:17.871 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-21 11:29:19.201 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-21 12:04:39.513 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-12-21 12:04:43.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-12-21 12:04:48.480 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

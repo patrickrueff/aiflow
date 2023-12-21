@@ -1,0 +1,72 @@
+2023-12-20 09:13:46.900 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-20 09:13:46.900 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-20 09:13:46.900 [info] Experiment 'pythonSurveyNotification' is active
+2023-12-20 09:13:46.901 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-12-20 09:13:46.901 [info] Experiment 'pythonTestAdapter' is active
+2023-12-20 09:13:46.901 [info] Default formatter is set to null for workspace /home/ubuntu
+2023-12-20 09:13:46.902 [info] Test server listening.
+2023-12-20 09:13:46.902 [info] Python interpreter path: /bin/python3
+2023-12-20 09:13:47.075 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 09:13:47.075 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 09:13:47.076 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 09:13:47.076 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 09:13:49.423 [info] Starting Pylance language server.
+2023-12-20 09:14:21.224 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:15:03.134 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:16:45.940 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:17:57.096 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:18:19.172 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:19:11.189 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:20:02.719 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:20:48.807 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:25:56.818 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:26:06.847 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:26:31.391 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:26:47.410 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:26:58.072 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:27:03.395 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:27:08.490 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:28:45.202 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:28:47.727 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:28:55.156 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:29:04.335 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:29:10.862 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:29:45.093 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:30:13.750 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:30:20.913 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:30:25.471 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:31:00.761 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:37:16.424 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:38:15.007 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:39:27.984 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:48:57.687 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:51:36.047 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:53:05.700 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:53:16.219 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:55:24.007 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:55:26.956 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:55:47.155 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:56:06.236 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:56:35.906 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:56:47.149 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_raw_file
+2023-12-20 09:56:49.618 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/script_tranform_to_csv
+2023-12-20 09:56:59.508 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:58:40.199 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:59:19.435 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 09:59:58.268 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:01:02.415 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:01:56.537 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:02:17.925 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:02:54.036 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:04:00.756 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:04:03.903 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:05:58.275 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:10:56.785 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:11:40.875 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:12:27.632 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:12:42.915 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:13:00.241 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:13:06.527 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:13:42.696 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:13:48.195 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model
+2023-12-20 10:15:26.589 [info] Send text to terminal: /bin/python3 /home/ubuntu/Airflow/Script_model

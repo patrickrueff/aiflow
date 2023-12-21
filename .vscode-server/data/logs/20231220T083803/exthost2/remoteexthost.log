@@ -1,0 +1,27 @@
+2023-12-20 08:55:14.007 [info] Extension host with pid 19698 started
+2023-12-20 08:55:14.072 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/d192bfce412de5bc0310e64dde87160c/vscode.lock': Lock acquired.
+2023-12-20 08:55:14.199 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-20 08:55:14.294 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-20 08:55:14.294 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-20 08:55:15.366 [info] Eager extensions activated
+2023-12-20 08:55:15.366 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-20 08:55:15.370 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-20 08:55:56.028 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-20 08:56:30.235 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-12-20 08:56:31.744 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-12-20 08:57:12.997 [error] [ms-python.python] provider FAILED
+2023-12-20 08:57:12.997 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async we.provideCompletionItems (/home/ubuntu/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-20 08:57:28.475 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-12-20 08:59:04.175 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-12-20 08:59:04.175 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-12-20 09:10:05.203 [error] [ms-python.python] provider FAILED
+2023-12-20 09:10:05.203 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139672
+	at _0x1be708 (/home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152856)
+	at async we.provideCompletionItems (/home/ubuntu/.vscode-server/bin/0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2023-12-20 09:12:26.989 [info] Extension host terminating: received terminate message from renderer
+2023-12-20 09:12:26.990 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/d192bfce412de5bc0310e64dde87160c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-20 09:12:27.188 [info] Extension host with pid 19698 exiting with code 0

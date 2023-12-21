@@ -1,0 +1,104 @@
+import pandas as pd
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import LinearRegression
+from sklearn.tree import DecisionTreeRegressor
+from joblib import dump
+
+
+def compute_model_score(model, X, y):
+    # computing cross val
+    cross_validation = cross_val_score(
+        model,
+        X,
+        y,
+        cv=3,
+        scoring='neg_mean_squared_error')
+
+    model_score = cross_validation.mean()
+
+    return model_score
+
+
+def train_and_save_model(model, X, y, path_to_model='./Airflow//model.pckl'):
+    # training the model
+    model.fit(X, y)
+    # saving model
+    print(str(model), 'saved at ', path_to_model)
+    dump(model, path_to_model)
+
+
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+from sklearn.tree import DecisionTreeRegressor
+# Assurez-vous d'importer les fonctions nécessaires telles que `train_and_save_model` et `compute_model_score`
+
+def prepare_data(path_to_data='./Airflow/clean_data/data.csv'):
+    # Lecture des données
+    df = pd.read_csv(path_to_data)
+    # Tri des données selon la ville et la date
+    df.sort_values(['city', 'date'], ascending=True, inplace=True)
+
+    print(df)
+    
+
+    dfs = []
+
+    for c in df['city'].unique():
+        df_temp = df[df['city'] == c].copy()
+
+        # Création de la cible
+        df_temp['target'] = df_temp['temperature'].shift(1)
+
+        # Création des caractéristiques (features)
+        for i in range(1, 10):
+            df_temp[f'temp_m-{i}'] = df_temp['temperature'].shift(-i)
+
+        # Suppression des valeurs nulles
+        df_temp.dropna(inplace=True)
+
+        dfs.append(df_temp)
+
+    # Concaténation des datasets
+    df_final = pd.concat(dfs, axis=0, ignore_index=True)
+
+    # Suppression de la variable date
+    df_final.drop(['date'], axis=1, inplace=True)
+
+    # Création de dummies pour la variable ville
+    df_final = pd.get_dummies(df_final)
+    print(df_final)
+    features = df_final.drop(['target'], axis=1)
+    target = df_final['target']
+
+    
+    
+    return features, target
+
+
+
+if __name__ == '__main__':
+    X, y = prepare_data('./Airflow/clean_data/data.csv')
+
+    # Calcul des scores pour les modèles
+    score_lr = compute_model_score(LinearRegression(), X, y)
+    score_dt = compute_model_score(DecisionTreeRegressor(), X, y)
+
+    # Utilisation de neg_mean_square_error
+    if score_lr < score_dt:
+        train_and_save_model(
+            LinearRegression(),
+            X,
+            y,
+            './Airflow/clean_data/best_model.pickle'
+        )
+    else:
+        train_and_save_model(
+            DecisionTreeRegressor(),
+            X,
+            y,
+            './Airflow/clean_data/best_model.pickle'
+        )
+
+
+        
+prepare_data()

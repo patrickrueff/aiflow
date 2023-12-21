@@ -1,0 +1,212 @@
+2023-12-20 09:12:40.977 [info] Log level: Info
+2023-12-20 09:12:40.977 [info] Validating found git in: "git"
+2023-12-20 09:12:40.977 [info] Using git "2.25.1" from "git"
+2023-12-20 09:12:40.977 [info] > git rev-parse --show-toplevel [9ms]
+2023-12-20 09:12:40.977 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:40.977 [info] > git rev-parse --show-toplevel [21ms]
+2023-12-20 09:12:40.977 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.143 [info] > git rev-parse --show-toplevel [168ms]
+2023-12-20 09:12:41.143 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.179 [info] > git rev-parse --show-toplevel [24ms]
+2023-12-20 09:12:41.179 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.207 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:12:41.207 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.244 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-20 09:12:41.244 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.278 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:12:41.278 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.344 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-20 09:12:41.344 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.373 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-20 09:12:41.373 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.412 [info] > git rev-parse --show-toplevel [10ms]
+2023-12-20 09:12:41.412 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.437 [info] > git rev-parse --show-toplevel [7ms]
+2023-12-20 09:12:41.437 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:12:41.489 [info] > git rev-parse --show-toplevel [15ms]
+2023-12-20 09:12:41.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:13:43.684 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-20 09:13:43.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:17:19.561 [info] > git rev-parse --show-toplevel [7ms]
+2023-12-20 09:17:19.561 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:17:27.215 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:17:27.215 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:18:34.118 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:18:34.119 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:20:34.489 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:20:34.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:20:42.192 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:20:42.192 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:21:07.395 [info] > git rev-parse --show-toplevel [10ms]
+2023-12-20 09:21:07.395 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:22:04.531 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-20 09:22:04.532 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:24:11.751 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:24:11.751 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:25:49.520 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-20 09:25:49.521 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:25:54.696 [info] > git rev-parse --show-toplevel [7ms]
+2023-12-20 09:25:54.696 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:26:02.833 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-20 09:26:02.833 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:27:01.101 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:27:01.101 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:27:06.654 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-20 09:27:06.654 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:27:22.221 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:27:22.221 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:28:31.709 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-20 09:28:31.709 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:28:37.851 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-20 09:28:37.851 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:28:43.210 [info] > git rev-parse --show-toplevel [18ms]
+2023-12-20 09:28:43.217 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:28:46.365 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-20 09:28:46.365 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:29:02.570 [info] > git rev-parse --show-toplevel [9ms]
+2023-12-20 09:29:02.570 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:29:08.401 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:29:08.401 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:29:15.283 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:29:15.283 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:29:32.641 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:29:32.641 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:30:23.703 [info] > git rev-parse --show-toplevel [6ms]
+2023-12-20 09:30:23.703 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:30:26.888 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:30:26.888 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:30:27.683 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-20 09:30:27.683 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:52:52.161 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:52:52.161 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:53:04.436 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:53:04.436 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:53:07.978 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:53:07.978 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:53:14.670 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:53:14.670 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:53:21.354 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-20 09:53:21.354 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:55:22.597 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:55:22.597 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:55:25.885 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:55:25.885 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:55:36.431 [info] > git rev-parse --show-toplevel [9ms]
+2023-12-20 09:55:36.432 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:55:45.508 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:55:45.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:03.951 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:56:03.952 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:08.735 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:56:08.735 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:10.780 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:56:10.780 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:14.331 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:56:14.331 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:16.507 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:56:16.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:22.545 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:56:22.545 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:37.111 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:56:37.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:43.269 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 09:56:43.270 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:45.927 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-20 09:56:45.928 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:48.124 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:56:48.124 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:51.650 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 09:56:51.650 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 09:56:57.269 [info] > git rev-parse --show-toplevel [6ms]
+2023-12-20 09:56:57.270 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 10:13:28.024 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 10:13:28.024 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 10:32:12.798 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 10:32:12.798 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 10:37:16.120 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-20 10:37:16.120 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 10:37:39.328 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-20 10:37:39.328 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 10:38:34.483 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-20 10:38:34.484 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-12-20 10:41:04.249 [info] > git rev-parse --show-toplevel [11ms]
+2023-12-20 10:41:04.285 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-20 10:41:04.316 [info] Open repository: /home/ubuntu
+2023-12-20 10:41:04.355 [info] No remotes found in the git config file.
+2023-12-20 10:41:04.356 [info] > git config --get commit.template [22ms]
+2023-12-20 10:41:04.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-12-20 10:41:04.594 [info] > git status -z -uall [220ms] (cancelled)
+2023-12-20 10:41:04.912 [info] > git show --textconv :Airflow/clean_data/data.csv [18ms]
+2023-12-20 10:41:04.914 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [3ms]
+2023-12-20 10:41:04.941 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-20 10:41:09.385 [info] > git config --get commit.template [26ms]
+2023-12-20 10:41:09.411 [info] No remotes found in the git config file.
+2023-12-20 10:41:09.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2023-12-20 10:41:11.556 [info] > git status -z -uall [2084ms] (cancelled)
+2023-12-20 10:41:36.136 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [2ms]
+2023-12-20 10:41:36.192 [info] > git show --textconv :Airflow/clean_data/data.csv [1ms]
+2023-12-20 10:41:44.597 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [1ms]
+2023-12-20 10:41:44.644 [info] > git show --textconv :Airflow/clean_data/data.csv [2ms]
+2023-12-20 10:41:59.423 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [3ms]
+2023-12-20 10:41:59.467 [info] > git show --textconv :Airflow/clean_data/data.csv [1ms]
+2023-12-20 10:42:04.005 [info] > git check-ignore -v -z --stdin [1ms]
+2023-12-20 10:42:08.848 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [2ms]
+2023-12-20 10:42:08.895 [info] > git show --textconv :Airflow/clean_data/data.csv [2ms]
+2023-12-20 10:42:20.267 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [2ms]
+2023-12-20 10:42:20.322 [info] > git show --textconv :Airflow/clean_data/data.csv [2ms]
+2023-12-20 10:42:47.115 [info] > git check-ignore -v -z --stdin [16ms]
+2023-12-20 10:43:23.960 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-20 10:43:25.438 [info] > git check-ignore -v -z --stdin [3ms]
+2023-12-20 10:43:46.533 [info] > git add -A -- . [49214ms]
+2023-12-20 10:43:47.559 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [1000ms]
+2023-12-20 10:43:47.559 [info] 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-12-20 10:43:47.577 [info] > git config --get-all user.name [2ms]
+2023-12-20 10:43:47.614 [info] > git config --get commit.template [19ms]
+2023-12-20 10:43:47.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-12-20 10:43:50.232 [info] > git status -z -uall [2598ms] (cancelled)
+2023-12-20 10:43:51.348 [info] > git merge-base refs/heads/main refs/remotes/origin/main [96ms]
+2023-12-20 10:43:51.385 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [158ms]
+2023-12-20 10:43:51.425 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [41ms]
+2023-12-20 10:43:51.430 [info] > git cat-file -s 88b10c01bed9eba68f1911a8c63227244ed2c064 [7ms]
+2023-12-20 10:43:53.048 [info] > git show --textconv :Airflow/clean_data/data.csv [1ms]
+2023-12-20 10:44:06.514 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-12-20 10:44:10.528 [info] > git log --oneline --cherry main...main@{upstream} -- [2ms]
+2023-12-20 10:44:10.863 [info] > git pull --tags origin main [310ms]
+2023-12-20 10:44:10.863 [info] From https://github.com/patrickrueff/aiflow
+ * branch            main       -> FETCH_HEAD
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+2023-12-20 10:44:10.912 [info] > git config --get commit.template [26ms]
+2023-12-20 10:44:10.916 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-12-20 10:44:10.938 [warning] ENOENT: no such file or directory, open '/home/ubuntu/.git/refs/remotes/origin/main'
+2023-12-20 10:44:10.943 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2023-12-20 10:44:15.001 [info] > git status -z -uall [4034ms] (cancelled)
+2023-12-20 10:44:16.474 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [17ms]
+2023-12-20 10:44:16.514 [info] > git cat-file -s 88b10c01bed9eba68f1911a8c63227244ed2c064 [1ms]
+2023-12-20 10:44:16.722 [info] > git show --textconv :Airflow/clean_data/data.csv [17ms]
+2023-12-20 10:44:20.516 [info] > git checkout -q main [300ms]
+2023-12-20 10:44:20.641 [info] > git config --get commit.template [69ms]
+2023-12-20 10:44:20.653 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2023-12-20 10:44:20.711 [warning] ENOENT: no such file or directory, open '/home/ubuntu/.git/refs/remotes/origin/main'
+2023-12-20 10:44:20.733 [info] > git rev-parse refs/remotes/origin/main [21ms]
+2023-12-20 10:44:24.726 [info] > git status -z -uall [3950ms] (cancelled)
+2023-12-20 10:44:25.935 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [8ms]
+2023-12-20 10:44:25.977 [info] > git cat-file -s 88b10c01bed9eba68f1911a8c63227244ed2c064 [7ms]
+2023-12-20 10:44:26.033 [info] > git show --textconv :Airflow/clean_data/data.csv [10ms]
+2023-12-20 10:44:36.755 [info] > git check-ignore -v -z --stdin [36ms]
+2023-12-20 10:44:38.551 [info] > git check-ignore -v -z --stdin [23ms]
+2023-12-20 10:44:47.135 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-12-20 10:46:31.457 [info] > git ls-files --stage -- /home/ubuntu/Airflow/clean_data/data.csv [14ms]
+2023-12-20 10:46:31.498 [info] > git cat-file -s 88b10c01bed9eba68f1911a8c63227244ed2c064 [1ms]
+2023-12-20 10:46:31.563 [info] > git show --textconv :Airflow/clean_data/data.csv [8ms]

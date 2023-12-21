@@ -1,0 +1,6 @@
+2023-12-21 12:00:10.823 [error] Error response from daemon: driver failed programming external connectivity on endpoint airflow_redis_1 (3e90fc821ef2be5b4d756a41fcd7bd362082130d6c5424e34ef7b3a3672c6396): Bind for 0.0.0.0:6379 failed: port is already allocated
+
+2023-12-21 12:00:10.824 [error] Error: failed to start containers: 769cff16bc4d761b7ac7515d20417fd00c235ee946e80254d3985a8a32a28942
+
+2023-12-21 12:00:10.859 [info] Error: Error response from daemon: driver failed programming external connectivity on endpoint airflow_redis_1 (3e90fc821ef2be5b4d756a41fcd7bd362082130d6c5424e34ef7b3a3672c6396): Bind for 0.0.0.0:6379 failed: port is already allocated
+Error: failed to start containers: 769cff16bc4d761b7ac7515d20417fd00c235ee946e80254d3985a8a32a28942
